@@ -1,0 +1,45 @@
+var logIn=`<h1>LogIn Form</h1>
+<form method="post">
+<p><input name="username" type="text" placeholder="username" /></p>
+
+<p><input name="password" type="password" placeholder="password" /></p>
+
+<p><button name="login" type="submit">logIn</button></p>
+
+</form>`;
+
+var Register=`<h1>Registering to Mount Everest Travels</h1>
+<form method="post">
+<p>UserName: <input name="username" type="text" /></p>
+
+<p>real name: <input name="realname" type="text" /></p>
+
+<p>real surname: <input name="surname" type="text" /></p>
+
+<p>password: <input name="password" type="password" /></p>
+
+<p>retype password <input name="retype" type="password" /></p>
+
+<p><button name="register" type="submit">register</button></p>
+
+</form>`;
+
+var Post1=`<img class="alignnone size-full wp-image-44" src="travelblog/quaxi.jpeg" alt="" width="275" height="183" />
+
+<p>... und schon wieder was neues :)</p>`;
+
+var Post2=`<img class="alignnone size-full wp-image-45" src="travelblog/quuxi.jpeg" alt="" width="259" height="194" />.
+
+<p>... but all that I could see is just another lemon tree ...</p>
+
+<p>I wonder how , I wonder why, yesterday , you told me 'bout the blue blue sky , ...</p>`;
+
+var Post3=`<img class="alignnone size-full wp-image-43" src="travelblog/index.jpeg" alt="" width="275" height="183" />
+
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>`;
+
+var AllPosts=[Post1,Post2,Post3];
+
+
+
+
